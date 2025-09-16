@@ -8,6 +8,7 @@
 
 _人生好難_
 
+[![Youtube連結](https://github.com/user-attachments/assets/bac03509-4284-435b-9b53-5845a0b0ce8d)]
 [![Youtube連結](https://github.com/user-attachments/assets/bac03509-4284-435b-9b53-5845a0b0ce8d)](https://www.youtube.com/)
 
 > 什麼叫瘋子？就是重複做同樣的事情還期待會出現不同的結果。
