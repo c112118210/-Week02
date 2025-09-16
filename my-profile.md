@@ -10,7 +10,8 @@ _人生好難_
 
 [YouTube](https://www.youtube.com/)
 
-![這是一張照片](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f2425015-5937-49a5-a553-c2a2e83a753b" />)
+![這是一張照片](<<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bac03509-4284-435b-9b53-5845a0b0ce8d" />
+/>)
 
 > 是什麼叫瘋子？就是重複做同樣的事情還期待會出現不同的結果。
 
